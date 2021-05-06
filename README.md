@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @ntrmz
+- I work on AWS Workspaces
